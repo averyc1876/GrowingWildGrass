@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrowingWildGrass", "GrowingWildGrass\GrowingWildGrass\GrowingWildGrass.csproj", "{9DFEC585-0053-489A-829E-96BDF239D506}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeBuild", "GrowingWildGrass\ZZCakeBuild\CakeBuild.csproj", "{9B597749-86F6-4344-AA15-4D2424D9344E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DFEC585-0053-489A-829E-96BDF239D506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DFEC585-0053-489A-829E-96BDF239D506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DFEC585-0053-489A-829E-96BDF239D506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DFEC585-0053-489A-829E-96BDF239D506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B597749-86F6-4344-AA15-4D2424D9344E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B597749-86F6-4344-AA15-4D2424D9344E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B597749-86F6-4344-AA15-4D2424D9344E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B597749-86F6-4344-AA15-4D2424D9344E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3E2A44D-4AFF-42A5-8304-B37FD7F09E78}
+	EndGlobalSection
+EndGlobal
