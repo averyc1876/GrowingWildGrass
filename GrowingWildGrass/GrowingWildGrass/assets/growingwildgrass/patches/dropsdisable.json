@@ -1,0 +1,74 @@
+﻿[
+  {
+    "side": "server", "op": "replace",
+    "file": "wildgrass:blocktypes/plant/bermudagrass", "path": "/dropsByType",
+    "value": {
+      "*-3-*": [{ "type": "item", "code": "seeds-bermudagrass", "quantity": { "avg": 1, "var": 1 } }],
+      "*": []
+    }
+  },
+  {
+    "side": "server", "op": "replace",
+    "file": "wildgrass:blocktypes/plant/bluegrass", "path": "/dropsByType",
+    "value": {
+      "*-4-*": [{ "type": "item", "code": "seeds-bluegrass", "quantity": { "avg": 1, "var": 1 } }],
+      "*": []
+    }
+  },
+  {
+    "side": "server", "op": "replace",
+    "file": "wildgrass:blocktypes/plant/buffalograss", "path": "/dropsByType",
+    "value": {
+      "*-2-*": [{ "type": "item", "code": "seeds-buffalograss", "quantity": { "avg": 1, "var": 1 } }],
+      "*": []
+    }
+  },
+  {
+    "side": "server", "op": "replace",
+    "file": "wildgrass:blocktypes/plant/bushgrass", "path": "/dropsByType",
+    "value": {
+      "*-4-*": [{ "type": "item", "code": "seeds-bushgrass", "quantity": { "avg": 1, "var": 1 } }],
+      "*": []
+    }
+  },
+  {
+    "side": "server", "op": "replace",
+    "file": "wildgrass:blocktypes/plant/buttongrass", "path": "/dropsByType",
+    "value": {
+      "*-4-*": [{ "type": "item", "code": "seeds-buttongrass", "quantity": { "avg": 1, "var": 1 } }],
+      "*": []
+    }
+  },
+  {
+    "side": "server", "op": "replace",
+    "file": "wildgrass:blocktypes/plant/common-rush", "path": "/dropsByType",
+    "value": {
+      "*-4-*": [{ "type": "item", "code": "seeds-rush-common", "quantity": { "avg": 1, "var": 1 } }],
+      "*": []
+    }
+  },
+  {
+    "side": "server", "op": "replace",
+    "file": "wildgrass:blocktypes/plant/fescue", "path": "/dropsByType",
+    "value": {
+      "*-4-*": [{ "type": "item", "code": "seeds-fescue-meadow", "quantity": { "avg": 1, "var": 1 } }],
+      "*": []
+    }
+  },
+  {
+    "side": "server", "op": "replace",
+    "file": "wildgrass:blocktypes/plant/ryegrass", "path": "/dropsByType",
+    "value": {
+      "*-4-*": [{ "type": "item", "code": "seeds-ryegrass-perennial", "quantity": { "avg": 1, "var": 1 } }],
+      "*": []
+    }
+  },
+  {
+    "side": "server", "op": "replace",
+    "file": "wildgrass:blocktypes/plant/switchgrass", "path": "/dropsByType",
+    "value": {
+      "*-5-*": [{ "type": "item", "code": "seeds-switchgrass", "quantity": { "avg": 1, "var": 1 } }],
+      "*": []
+    }
+  }
+]

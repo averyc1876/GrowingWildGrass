@@ -1,0 +1,7 @@
+﻿[
+  {
+    "side": "server", "op": "replace",
+    "file": "wildgrass:itemtypes/seeds", "path": "/textures/seed",
+    "value": {"base": "growingwildgrass:item/seeds/{type}"}
+  }
+]

@@ -1,11 +1,11 @@
 {
     "type": "code",
     "modid": "growingwildgrass",
-    "name": "Growing WildGrass",
+    "name": "Growing Wildgrass",
     "authors": [
         "averyc1876"
     ],
-    "description": "Patches the WildGrass mod to make it more comptatible with Art of Growing",
+    "description": "Patches the Wildgrass mod to make it more comptatible with Art of Growing",
     "version": "0.0.1",
     "dependencies": {
         "game": "",
