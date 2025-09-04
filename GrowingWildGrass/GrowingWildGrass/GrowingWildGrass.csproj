@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Reference Include="ArtOfGrowing">
+      <HintPath>C:\Users\avery\AppData\Roaming\VintagestoryData\Mods\ArtOfGrowing\ArtOfGrowing.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="VintagestoryAPI">
       <HintPath>$(VINTAGE_STORY)/VintagestoryAPI.dll</HintPath>
       <Private>false</Private>
@@ -45,6 +49,10 @@
     </Reference>
     <Reference Include="Microsoft.Data.Sqlite">
       <HintPath>$(VINTAGE_STORY)/Lib/Microsoft.Data.Sqlite.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="wildgrass">
+      <HintPath>C:\Users\avery\AppData\Roaming\VintagestoryData\Mods\wildgrass_1.3.4\wildgrass.dll</HintPath>
       <Private>False</Private>
     </Reference>
   </ItemGroup>

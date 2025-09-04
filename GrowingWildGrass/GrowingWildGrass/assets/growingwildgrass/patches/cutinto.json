@@ -1,0 +1,47 @@
+﻿[
+  {
+    "side": "server", "op": "replace",
+    "file": "wildgrass:blocktypes/plant/bermudagrass", "path": "/attributes/cutIntoByType/*",
+    "value": "growingwildgrass:haylayer-eaten-bermudagrass-{growth}-grass-free"
+  },
+  {
+    "side": "server", "op": "replace",
+    "file": "wildgrass:blocktypes/plant/bluegrass", "path": "/attributes/cutIntoByType/*",
+    "value": "growingwildgrass:haylayer-eaten-bluegrass-{growth}-grass-free"
+  },
+  {
+    "side": "server", "op": "replace",
+    "file": "wildgrass:blocktypes/plant/buffalograss", "path": "/attributes/cutIntoByType/*",
+    "value": "growingwildgrass:haylayer-eaten-buffalograss-{growth}-grass-free"
+  },
+  {
+    "side": "server", "op": "replace",
+    "file": "wildgrass:blocktypes/plant/bushgrass", "path": "/attributes/cutIntoByType/*",
+    "value": "growingwildgrass:haylayer-eaten-bushgrass-{growth}-grass-free"
+  },
+  {
+    "side": "server", "op": "replace",
+    "file": "wildgrass:blocktypes/plant/buttongrass", "path": "/attributes/cutIntoByType/*",
+    "value": "growingwildgrass:haylayer-eaten-buttongrass-{growth}-grass-free"
+  },
+  {
+    "side": "server", "op": "replace",
+    "file": "wildgrass:blocktypes/plant/rush", "path": "/attributes/cutIntoByType/*",
+    "value": "growingwildgrass:haylayer-eaten-rush-common-{growth}-grass-free"
+  },
+  {
+    "side": "server", "op": "replace",
+    "file": "wildgrass:blocktypes/plant/fescue", "path": "/attributes/cutIntoByType/*",
+    "value": "growingwildgrass:haylayer-eaten-fescue-meadow-{growth}-grass-free"
+  },
+  {
+    "side": "server", "op": "replace",
+    "file": "wildgrass:blocktypes/plant/ryegrass", "path": "/attributes/cutIntoByType/*",
+    "value": "growingwildgrass:haylayer-eaten-ryegrass-perennial-{growth}-grass-free"
+  },
+  {
+    "side": "server", "op": "replace",
+    "file": "wildgrass:blocktypes/plant/switchgrass", "path": "/attributes/cutIntoByType/*",
+    "value": "growingwildgrass:haylayer-eaten-switchgrass-{growth}-grass-free"
+  }
+]
