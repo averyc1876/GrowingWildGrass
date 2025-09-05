@@ -1,4 +1,4 @@
-# Growing WildGrass - [main release](https://github.com/averyc1876/GrowingWildGrass/releases/tag/main-release) [unofficial patch release](https://github.com/averyc1876/GrowingWildGrass/releases/tag/patch-release)
+# Growing WildGrass - [main release](https://github.com/averyc1876/GrowingWildGrass/releases/tag/main-release) | [unofficial patch release](https://github.com/averyc1876/GrowingWildGrass/releases/tag/patch-release)
 
 This is a small mod for Vintage Story to patch Art of Growing functionality into Wild Grass.  
 It means that grass from the Wild Grass mod will become a mowed grass block when cut, and function the same way as normal mown grass does in Art of Growing.
